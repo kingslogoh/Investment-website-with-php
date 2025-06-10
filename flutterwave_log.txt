@@ -1,0 +1,211 @@
+{
+    "status": "success",
+    "message": "Transaction fetched successfully",
+    "data": {
+        "id": 8545926,
+        "tx_ref": "txn_1117",
+        "flw_ref": "FLW-MOCK-5f67a5df6a08fc338f7990c1586bf597",
+        "device_fingerprint": "N\/A",
+        "amount": 1,
+        "currency": "USD",
+        "charged_amount": 1,
+        "app_fee": 0.04,
+        "merchant_fee": 0,
+        "processor_response": "Approved. Successful",
+        "auth_model": "VBVSECURECODE",
+        "ip": "54.75.161.64",
+        "narration": "CARD Transaction ",
+        "status": "successful",
+        "payment_type": "card",
+        "created_at": "2025-04-04T10:48:26.000Z",
+        "account_id": 215608,
+        "card": {
+            "first_6digits": "418742",
+            "last_4digits": "4246",
+            "issuer": "ACCESS BANK PLC DEBIT CLASSIC",
+            "country": "NIGERIA NG",
+            "type": "VISA",
+            "token": "flw-t1nf-84ee42f5ed7131f6e0100d6ae1b71b23-m03k",
+            "expiry": "09\/32"
+        },
+        "meta": {
+            "__CheckoutInitAddress": "https:\/\/www.studentearning.com\/investment\/deposit.php"
+        },
+        "amount_settled": 0.95,
+        "customer": {
+            "id": 2634813,
+            "name": "admin user",
+            "phone_number": "1234567890",
+            "email": "mordi30@gmail.com",
+            "created_at": "2025-04-03T13:28:08.000Z"
+        }
+    }
+}{
+    "status": "success",
+    "message": "Transaction fetched successfully",
+    "data": {
+        "id": 8547979,
+        "tx_ref": "txn_54364",
+        "flw_ref": "FLW-MOCK-f73fe24cf2e90293bf12841005ddf893",
+        "device_fingerprint": "N\/A",
+        "amount": 5,
+        "currency": "USD",
+        "charged_amount": 5,
+        "app_fee": 0.19,
+        "merchant_fee": 0,
+        "processor_response": "Approved. Successful",
+        "auth_model": "VBVSECURECODE",
+        "ip": "52.209.154.143",
+        "narration": "CARD Transaction ",
+        "status": "successful",
+        "payment_type": "card",
+        "created_at": "2025-04-04T11:02:37.000Z",
+        "account_id": 215608,
+        "card": {
+            "first_6digits": "418742",
+            "last_4digits": "4246",
+            "issuer": "ACCESS BANK PLC DEBIT CLASSIC",
+            "country": "NIGERIA NG",
+            "type": "VISA",
+            "token": "flw-t1nf-84ee42f5ed7131f6e0100d6ae1b71b23-m03k",
+            "expiry": "09\/32"
+        },
+        "meta": {
+            "__CheckoutInitAddress": "https:\/\/www.studentearning.com\/investment\/deposit.php"
+        },
+        "amount_settled": 4.79,
+        "customer": {
+            "id": 2634813,
+            "name": "admin user",
+            "phone_number": "1234567890",
+            "email": "mordi30@gmail.com",
+            "created_at": "2025-04-03T13:28:08.000Z"
+        }
+    }
+}{
+    "status": "success",
+    "message": "Transaction fetched successfully",
+    "data": {
+        "id": 8548766,
+        "tx_ref": "txn_111755",
+        "flw_ref": "FLW-MOCK-fdfe85dfe774119c4833455c966bdbc9",
+        "device_fingerprint": "N\/A",
+        "amount": 1,
+        "currency": "USD",
+        "charged_amount": 1,
+        "app_fee": 0.04,
+        "merchant_fee": 0,
+        "processor_response": "Approved. Successful",
+        "auth_model": "VBVSECURECODE",
+        "ip": "54.75.161.64",
+        "narration": "CARD Transaction ",
+        "status": "successful",
+        "payment_type": "card",
+        "created_at": "2025-04-04T11:13:29.000Z",
+        "account_id": 215608,
+        "card": {
+            "first_6digits": "418742",
+            "last_4digits": "4246",
+            "issuer": "ACCESS BANK PLC DEBIT CLASSIC",
+            "country": "NIGERIA NG",
+            "type": "VISA",
+            "token": "flw-t1nf-84ee42f5ed7131f6e0100d6ae1b71b23-m03k",
+            "expiry": "09\/32"
+        },
+        "meta": {
+            "__CheckoutInitAddress": "https:\/\/www.studentearning.com\/investment\/deposit.php"
+        },
+        "amount_settled": 0.95,
+        "customer": {
+            "id": 2634813,
+            "name": "admin user",
+            "phone_number": "1234567890",
+            "email": "mordi30@gmail.com",
+            "created_at": "2025-04-03T13:28:08.000Z"
+        }
+    }
+}{
+    "status": "success",
+    "message": "Transaction fetched successfully",
+    "data": {
+        "id": 8581091,
+        "tx_ref": "txn_642106",
+        "flw_ref": "FLW-M03K-df8ab2641718e0be0441a5c781118723",
+        "device_fingerprint": "N\/A",
+        "amount": 1,
+        "currency": "USD",
+        "charged_amount": 1,
+        "app_fee": 0.04,
+        "merchant_fee": 0,
+        "processor_response": "Approved",
+        "auth_model": "noauth-saved-card",
+        "ip": "52.209.154.143",
+        "narration": "kingslogoh",
+        "status": "successful",
+        "payment_type": "card",
+        "created_at": "2025-04-05T15:46:36.000Z",
+        "account_id": 215608,
+        "card": {
+            "first_6digits": "537728",
+            "last_4digits": "7450",
+            "issuer": "JSB PROBUSINESSBANK CREDITGOLD",
+            "country": "RUSSIAN FEDERATION RU",
+            "type": "MASTERCARD",
+            "token": "flw-t1nf-6fc8a78cbf6a8d78aa6cbae6a9fc6ece-k3n",
+            "expiry": "09\/31"
+        },
+        "meta": {
+            "__CheckoutInitAddress": "https:\/\/www.studentearning.com\/investment\/deposit.php"
+        },
+        "amount_settled": 0.96,
+        "customer": {
+            "id": 2634813,
+            "name": "admin user",
+            "phone_number": "1234567890",
+            "email": "mordi30@gmail.com",
+            "created_at": "2025-04-03T13:28:08.000Z"
+        }
+    }
+}{
+    "status": "success",
+    "message": "Transaction fetched successfully",
+    "data": {
+        "id": 8581102,
+        "tx_ref": "txn_147931",
+        "flw_ref": "FLW-M03K-8c321730659aeaccb532c4cf08f7633f",
+        "device_fingerprint": "N\/A",
+        "amount": 1,
+        "currency": "USD",
+        "charged_amount": 1,
+        "app_fee": 0.04,
+        "merchant_fee": 0,
+        "processor_response": "Approved",
+        "auth_model": "noauth-saved-card",
+        "ip": "54.75.161.64",
+        "narration": "kingslogoh",
+        "status": "successful",
+        "payment_type": "card",
+        "created_at": "2025-04-05T15:56:41.000Z",
+        "account_id": 215608,
+        "card": {
+            "first_6digits": "537728",
+            "last_4digits": "7450",
+            "issuer": "JSB PROBUSINESSBANK CREDITGOLD",
+            "country": "RUSSIAN FEDERATION RU",
+            "type": "MASTERCARD",
+            "token": "flw-t1nf-6fc8a78cbf6a8d78aa6cbae6a9fc6ece-k3n",
+            "expiry": "09\/31"
+        },
+        "meta": {
+            "__CheckoutInitAddress": "https:\/\/www.studentearning.com\/investment\/deposit.php"
+        },
+        "amount_settled": 0.96,
+        "customer": {
+            "id": 2634813,
+            "name": "admin user",
+            "phone_number": "1234567890",
+            "email": "mordi30@gmail.com",
+            "created_at": "2025-04-03T13:28:08.000Z"
+        }
+    }
+}
