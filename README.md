@@ -24,7 +24,7 @@ yourdomain.com/investment/
 2. Create a new database (e.g., `investment_db`).
 3. Import the provided SQL file into the newly created database.
 
-> ⚠️ **NOTE:** The SQL file is not free. Contact the developer (see below) to get access.
+> ⚠️ **NOTE:** The SQL file is $50. Contact the developer (see below) to get access.
 
 ---
 
@@ -33,7 +33,7 @@ yourdomain.com/investment/
 Open this file:
 
 ```
-/investment/config/database.php
+/investment/database.php
 ```
 
 Update the database details as follows:
@@ -55,6 +55,7 @@ yourdomain.com/investment/admin_register.php
 ```
 
 2. Fill out the form to register your admin account.
+3. visit yourdomain.com/investment/admin_login.php
 
 ---
 
@@ -102,7 +103,7 @@ Before proceeding with SQL setup, **you must contact the developer** for the SQL
 - 📧 **Email**: [kingslogh@gmail.com](mailto:kingslogh@gmail.com)  
 - 📱 **WhatsApp**: +2347032324586
 
-> ❗ This system is **not free**. Licensing must be confirmed before use.
+> ❗ This system is **not free** You should pay 50$. Licensing must be confirmed before use.
 
 ---
 
